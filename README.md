@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working as an **Associate Software Engineer** @ [Citytech Group](https://citytech.global)
+- 🔭 Currently working as an **Software Engineer** @ [Citytech Group](https://citytech.global)
 - 🚀 Spearheading greenfield 🌱 & brownfield 🌾 projects in Fintech like a boss
 - 🧩 Clean architecture + Clean code = Cleaner sleep 🛌
 - 🧪 I write tests... because I'm too scared of debugging at 2 AM 😅
