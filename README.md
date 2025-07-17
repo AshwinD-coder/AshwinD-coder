@@ -38,22 +38,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwindg15&show_icons=true&theme=radical" alt="Ashwin's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AshwinD-Coder&show_icons=true&theme=radical" alt="Ashwin's GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwindg15&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshwinD-Coder&theme=radical" alt="GitHub Streak" />
 </p>
 
----
 
-## 📦 Projects Worth Peeking At
 
-- 💸 [GetPay](https://getpay.global/business/) – Payment orchestration platform for fintech superheroes
-- 💰 **Sapati App** – Web backend for money borrowing/lending using Micronaut & PostgreSQL
-- 🛫 **Flight Reservation System** – PHP/MySQL powered platform with E-Sewa & Facebook login integration
-- 🏠 **Real Estate Price Prediction** – ML model trained to predict housing prices in Nepal
-- 🧠 **Spasta Nepali** – Grammar checker for Nepali language using NLP
-
----
 
 ## 😄 Fun Coding Joke
 
