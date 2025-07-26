@@ -4,8 +4,7 @@
 </p>
 
 <p align="center">
-  🧠 Full-time Java slinger | 💻 Fintech Wizard | 🛠️ Bug bounty hunter (of my own code) <br>
-  🔍 Obsessed with clean code, breaking legacy chains, and leveling up systems 💡<br>
+  🧠 Full-time Java slinger | 💻 Creating something | 🛠️ Bug bounty hunter (of my own code) <br>
   ⚽ When not coding, I'm either scoring goals in football or unlocking achievements in gaming 🎮
 </p>
 
@@ -14,7 +13,6 @@
 ## 🧑‍💻 About Me
 
 - 🔭 Currently working as an **Software Engineer** @ [Citytech Group](https://citytech.global)
-- 🚀 Spearheading greenfield 🌱 & brownfield 🌾 projects in Fintech like a boss
 - 🧩 Clean architecture + Clean code = Cleaner sleep 🛌
 - 🧪 I write tests... because I'm too scared of debugging at 2 AM 😅
 - 🐳 Dockerizing all the things, and yes—CI/CD is my jam!
