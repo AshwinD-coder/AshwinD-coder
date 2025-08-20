@@ -28,15 +28,7 @@
 </picture>
 
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="images/black_micronaut.jpeg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="images/white_micronaut.svg"
-  />
-  <img alt="Micronaut" title="Micronaut" src="images/white_micronaut.svg" style="width:100px;height:100px" />
+  <img alt="Micronaut" title="Micronaut" src="images/black_micronaut.jpeg" style="width:100px;height:100px" />
 </picture>
 
 <picture>
