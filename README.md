@@ -13,7 +13,7 @@
 
 ## Main Stacks
 <html>
-<div class="tech-stack-images" style="display:flex;flex-direction:row;gap:12px;align-items:center;flex-wrap:wrap">
+<div class="tech-stack-images" style="display:flex;flex-direction:row;gap:20px;align-items:center;flex-wrap:wrap">
 <picture>
   <img alt="JAVA" src="images/java.svg" style="width:100px;height:100px" />
 </picture>
