@@ -28,7 +28,7 @@
 </picture>
 
 <picture>
-  <img alt="Micronaut" title="Micronaut" src="images/black_micronaut.png" style="width:100px; height:100px" />
+  <img alt="Micronaut" title="Micronaut" src="images/white_micronaut.svg" style="width:100px;height:100px" />
 </picture>
 
 <picture>
