@@ -13,7 +13,7 @@
 
 ## Main Stacks
 <html>
-<div class="tech-stack-images" style="display:flex;flex-direction:row;gap:20px;align-items:center;flex-wrap:wrap">
+<div class="tech-stack-images" style="display:flex;flex-direction:row;gap:30px;align-items:center;flex-wrap:wrap">
 <picture>
   <img alt="JAVA" title="Java" src="images/java.svg" style="width:100px;height:100px" />
 </picture>
@@ -28,6 +28,14 @@
 </picture>
 
 <picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="images/black_micronaut.jpeg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="images/white_micronaut.svg"
+  />
   <img alt="Micronaut" title="Micronaut" src="images/white_micronaut.svg" style="width:100px;height:100px" />
 </picture>
 
