@@ -15,28 +15,41 @@
 <html>
 <div class="tech-stack-images" style="display:flex;flex-direction:row;gap:20px;align-items:center;flex-wrap:wrap">
 <picture>
-  <img alt="JAVA" src="images/java.svg" style="width:100px;height:100px" />
+  <img alt="JAVA" title="Java" src="images/java.svg" style="width:100px;height:100px" />
 </picture>
 <picture>
-  <img alt="postgres" src="images/postgres.svg" style="width:100px;height:100px" />
+  <img alt="postgres" title="PostgreSQL" src="images/postgres.svg" style="width:100px;height:100px" />
 </picture>
 <picture>
-  <img alt="mysql" src="images/mysql.svg" style="width:100px;height:100px" />
+  <img alt="mysql" title="MySQL" src="images/mysql.svg" style="width:100px;height:100px" />
 </picture>
 <picture>
-  <img alt="spring" src="images/spring.svg"style="width:100px;height:100px" />
+  <img alt="spring" title="Spring" src="images/spring.svg"style="width:100px;height:100px" />
+</picture>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://objectcomputing.com/files/3416/2275/4315/micronaut_horizontal_black.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://objectcomputing.com/files/3816/2275/4353/micronaut_horizontal_white.svg"
+  />
+  <img alt="Micronaut" title="Micronaut" src="https://objectcomputing.com/files/3816/2275/4353/micronaut_horizontal_white.svg" style="width:100px;height:100px" />
+</picture>
+
+<picture>
+  <img alt="angular" title="Angular" src="images/angular.svg" style="width:100px;height:100px" />
 </picture>
 <picture>
-  <img alt="angular" src="images/angular.svg" style="width:100px;height:100px" />
+  <img alt="docker" title="Docker" src="images/docker.svg" style="width:100px;height:100px" />
 </picture>
 <picture>
-  <img alt="docker" src="images/docker.svg" style="width:100px;height:100px" />
+  <img alt="jenkins" title="Jenkins" src="images/jenkins.svg" style="width:100px;height:100px" />
 </picture>
 <picture>
-  <img alt="jenkins" src="images/jenkins.svg" style="width:100px;height:100px" />
-</picture>
-<picture>
-  <img alt="k8s" src="images/kubernetes.svg" style="width:100px;height:100px" />
+  <img alt="k8s" title="Kubernetes" src="images/kubernetes.svg" style="width:100px;height:100px" />
 </picture>
 
 <!-- commit svg -->
