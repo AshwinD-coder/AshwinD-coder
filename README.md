@@ -30,13 +30,13 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://objectcomputing.com/files/3416/2275/4315/micronaut_horizontal_black.svg"
+    srcset="images/black_micronaut.png"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://objectcomputing.com/files/3816/2275/4353/micronaut_horizontal_white.svg"
+    srcset="images/white_micronaut.png"
   />
-  <img alt="Micronaut" title="Micronaut" src="https://objectcomputing.com/files/3816/2275/4353/micronaut_horizontal_white.svg" style="width:100px;height:100px" />
+  <img alt="Micronaut" title="Micronaut" src="images/black_micronaut.png.png" style="width:100px; height:100px" />
 </picture>
 
 <picture>
