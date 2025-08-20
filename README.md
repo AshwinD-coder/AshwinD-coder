@@ -21,6 +21,9 @@
   <img alt="postgres" src="images/postgres.svg" style="width:100px;height:100px" />
 </picture>
 <picture>
+  <img alt="mysql" src="images/mysql.svg" style="width:100px;height:100px" />
+</picture>
+<picture>
   <img alt="spring" src="images/spring.svg"style="width:100px;height:100px" />
 </picture>
 <picture>
@@ -28,6 +31,12 @@
 </picture>
 <picture>
   <img alt="docker" src="images/docker.svg" style="width:100px;height:100px" />
+</picture>
+<picture>
+  <img alt="jenkins" src="images/jenkins.svg" style="width:100px;height:100px" />
+</picture>
+<picture>
+  <img alt="k8s" src="images/kubernetes.svg" style="width:100px;height:100px" />
 </picture>
 
 <!-- commit svg -->
