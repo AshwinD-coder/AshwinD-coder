@@ -12,7 +12,7 @@
 
 
 ## Main Stacks
-<div style="display:flex;flex-direction:row;align-items:center;flex-wrap:wrap">
+<div style="display:inline-block;flex-direction:row;align-items:center;flex-wrap:wrap">
 <picture>
   <img alt="JAVA" src="images/java.svg" />
 </picture>
