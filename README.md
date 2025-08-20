@@ -12,24 +12,23 @@
 
 
 ## Main Stacks
-<div style="display:inline-block;flex-direction:row;align-items:center;flex-wrap:wrap">
+<html>
+<div class="tech-stack-images" style="display:flex;flex-direction:row;gap:12px;align-items:center;flex-wrap:wrap">
 <picture>
-  <img alt="JAVA" src="images/java.svg" />
+  <img alt="JAVA" src="images/java.svg" style="width:100px;height:100px" />
 </picture>
 <picture>
-  <img alt="postgres" src="images/postgres.svg" />
+  <img alt="postgres" src="images/postgres.svg" style="width:100px;height:100px" />
 </picture>
 <picture>
-  <img alt="spring" src="images/spring.svg" />
+  <img alt="spring" src="images/spring.svg"style="width:100px;height:100px" />
 </picture>
 <picture>
-  <img alt="angluar" src="images/angular.svg" />
+  <img alt="angular" src="images/angular.svg" style="width:100px;height:100px" />
 </picture>
 <picture>
-  <img alt="docker" src="images/docker.svg" />
+  <img alt="docker" src="images/docker.svg" style="width:100px;height:100px" />
 </picture>
-
-
 
 <!-- commit svg -->
 
@@ -46,3 +45,4 @@
 </picture>
 
 Built using [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout)
+</html>
