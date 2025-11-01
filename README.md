@@ -4,7 +4,7 @@
 ```json
 {
   "job": "Software Engineer",
-  "workplace":"Citytech",
+  "workplaces":"Citytech, Smart Data Solutions",
   "country": "Nepal",
   "city": "Kathmandu"
 }
